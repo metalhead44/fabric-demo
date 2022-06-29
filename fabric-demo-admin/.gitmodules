@@ -1,0 +1,4 @@
+[submodule "fabric-demo"]
+	path = fabric-demo
+	url = https://github.com/metalhead44/fabric-demo.git
+	branch = master
